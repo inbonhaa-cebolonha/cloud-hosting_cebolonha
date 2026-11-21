@@ -1,2 +1,2 @@
-cloudlink==0.1.9.3
+cloudlink==0.2.0.1
 websockets==11.0.3
