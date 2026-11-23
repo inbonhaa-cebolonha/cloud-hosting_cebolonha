@@ -1,0 +1,30 @@
+{
+    "C0": {
+        "id": "Localhost",
+        "url": "ws://127.0.0.1:3000/"
+    },
+    "C1": {
+        "id": "Inbonha's server 3",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
+    },
+    "C2": {
+        "id": "Inbonha's server 2",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
+    },
+    "C3": {
+        "id": "Inbonha's server 3",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
+    },
+    "C4": {
+        "id": "Inbonha's server 4",
+        "url": "wwss://cloud-hosting-cebolonha-1.onrender.com"
+    },
+    "C5": {
+        "id": "Inbonha's server 5",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
+    },
+    "C6": {
+        "id": "Inbonha's server 6",
+        "url": "wss://cloud-hosting-cebolonha-1.onrender.com"
+    }
+}
